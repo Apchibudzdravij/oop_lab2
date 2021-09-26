@@ -1,0 +1,14 @@
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\bin\Debug\netcoreapp3.1\Kurlyk2.exe
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\bin\Debug\netcoreapp3.1\Kurlyk2.deps.json
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\bin\Debug\netcoreapp3.1\Kurlyk2.runtimeconfig.json
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\bin\Debug\netcoreapp3.1\Kurlyk2.runtimeconfig.dev.json
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\bin\Debug\netcoreapp3.1\Kurlyk2.dll
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\bin\Debug\netcoreapp3.1\Kurlyk2.pdb
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.AssemblyInfoInputs.cache
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.AssemblyInfo.cs
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.csproj.CoreCompileInputs.cache
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.dll
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.pdb
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.genruntimeconfig.cache
+D:\ExtendedData\Laboratory\ООТПиСП\Lab2\Kurlyk2\Kurlyk2\obj\Debug\netcoreapp3.1\Kurlyk2.csproj.AssemblyReference.cache
